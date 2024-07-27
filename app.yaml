@@ -1,0 +1,6 @@
+domains:
+- nextjs-starter-coleea.wasmer.app
+kind: wasmer.io/App.v0
+name: coleea-nextjs-wasmer-starter
+owner: coleea
+package: .
